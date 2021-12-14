@@ -1,0 +1,74 @@
+.container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: flex-start;
+  background-color: #fff8f8;
+}
+.container1 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.container2 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.container3 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.container4 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.container5 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.link {
+  color: #c71313;
+  align-self: center;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+.text02 {
+  color: #000000;
+}
+.text03 {
+  color: #054acb;
+}
+.image {
+  width: 153px;
+  height: 190px;
+  object-fit: cover;
+}
+.text06 {
+  color: #144fe4;
+  text-transform: uppercase;
+  text-decoration: underline;
+}
+.text12 {
+  text-decoration: underline;
